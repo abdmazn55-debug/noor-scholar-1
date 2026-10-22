@@ -1,0 +1,8 @@
+{
+  "name": "Noor Scholar",
+  "description": "Noor Scholar - Free Academic Search Engine | 250M+ Papers | Best Google Scholar Alternative",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
